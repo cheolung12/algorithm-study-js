@@ -15,3 +15,7 @@
 `/programmers/past_q`
 
 ***
+ 
+## 📝 알게된 것 정리
+#### [함수, 팁 정리](https://velog.io/@cu1210/JS%EB%A1%9C-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B2%98%EC%9D%8C-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B4%EC%84%9C-%EC%95%8C%EA%B2%8C%EB%90%9C-%ED%95%A8%EC%88%98-%ED%8C%81)
+#### [정규표현식]() (준비중)
