@@ -8,11 +8,13 @@
 
 ## 🧑🏻‍💻 프로그래머스 고득점 kit 풀기
 `/programmers/high_score`
+[문제 바로가기](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 
 ***
 
 ## 🧑🏻‍💻 프로그래머스 기출문제 풀기
 `/programmers/past_q`
+(level 4는 나중에 풀 예정)
 
 ***
  
