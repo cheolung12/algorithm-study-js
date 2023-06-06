@@ -22,4 +22,4 @@
  
 ## 📝 알게된 것 정리
 #### [함수, 팁 정리](https://velog.io/@cu1210/JS%EB%A1%9C-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B2%98%EC%9D%8C-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B4%EC%84%9C-%EC%95%8C%EA%B2%8C%EB%90%9C-%ED%95%A8%EC%88%98-%ED%8C%81)
-#### [정규표현식](https://velog.io/@cu1210/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D) (준비중)
+#### [정규표현식](https://velog.io/@cu1210/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D)
