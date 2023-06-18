@@ -18,6 +18,7 @@ function solution(n, times) {
 
         // mid 값 조정하면서 반으로 줄이기
         if (count >= n) {
+            // count >= n 이면 다 심사를 받을 수 있는 상태이므로 현재까지 찾은 최소 시간 값중 작은 값으로 업데이트
             answer = Math.min(answer, mid);
             right = mid - 1;
         } else {
