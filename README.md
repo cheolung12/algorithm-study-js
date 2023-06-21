@@ -14,7 +14,7 @@
 ***
 
 ## 🧑🏻‍💻 프로그래머스 기출문제 풀기
-`/programmers/past_q`
+`/programmers/기출문제`
 
 (level 4는 나중에 풀 예정)
 
