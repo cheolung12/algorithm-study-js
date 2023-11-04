@@ -1,0 +1,38 @@
+const graph = {
+    A: ["B", "C"],
+    B: ["A", "D"],
+    C: ["A", "E"],
+    D: ["B", "F"],
+    E: ["C","G"],
+    F: ["D","H","I"],
+    G: ["E","J","K"],
+    H: ["F","L"],
+    I: ["F", "M"],
+    J: ["G","N"],
+    K: ["G","O"],
+    L: ["H"],
+    M: ["I","P"],
+    N: ["J"],
+    O: ["K"],
+    P: ["M"]
+  };
+
+  const bfs = (graph, start) => {
+    const checked = [];
+    const willCheck = [];
+
+    willCheck.push(start);
+
+    while(willCheck.length !== 0){
+        console.log('checked', checked);
+        console.log('willCheck', willCheck);
+        const node = willCheck.shift();
+        if(!checked.includes(node)){
+            checked.push(node);
+            willCheck.push(...graph[node]);
+        }
+    }
+    return checked;
+  }
+
+  console.log(bfs(graph, "A"));
