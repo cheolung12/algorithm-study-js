@@ -38,5 +38,5 @@ function solution(fees, records) {
   }
 
   // 차번호순으로 정렬 후 요금을 return
-  return Array.from(ans.sort((a, b) => a[0] - b[0]).map((el) => el[1]));
+  return ans.sort((a, b) => a[0] - b[0]).map((el) => el[1]);
 }
