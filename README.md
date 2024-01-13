@@ -17,10 +17,11 @@
 ## 🧑🏻‍💻 프로그래머스 레벨별로 문제 풀기
 `/programmers/lv?`
 
-(level 4는 나중에 풀 예정)
-
 ***
  
-## 📝 알게된 것 정리
-#### [함수, 팁 정리](https://velog.io/@cu1210/JS%EB%A1%9C-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B2%98%EC%9D%8C-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B4%EC%84%9C-%EC%95%8C%EA%B2%8C%EB%90%9C-%ED%95%A8%EC%88%98-%ED%8C%81)
-#### [정규표현식](https://velog.io/@cu1210/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D)
+## 📝 정리
+### 함수, 팁 정리
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cu1210)](https://velog.io/@cu1210/JS%EB%A1%9C-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B2%98%EC%9D%8C-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B4%EC%84%9C-%EC%95%8C%EA%B2%8C%EB%90%9C-%ED%95%A8%EC%88%98-%ED%8C%81)
+### 정규표현식 관련 문제
+- [신규아이디추천 (lv1)](https://github.com/cheolung12/algorithm-study-js/blob/main/programmers/lv1/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C.js)
+- [파일명정렬 (lv2)]()
