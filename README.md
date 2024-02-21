@@ -25,7 +25,7 @@ rl.on('line', (line) => {
 	rl.close();
 });
 rl.on('close', () => {
-	console.log("Hello Goorm! Your input is " + input);
+	console.log("Your input is " + input);
 })
 ```
 - 콘솔에서 데이터를 입력받음
