@@ -25,7 +25,7 @@ rl.on('line', (line) => {
 	rl.close();
 });
 rl.on('close', () => {
-	console.log("Hello Goorm! Your input is " + input);
+	console.log("Your input is " + input);
 })
 ```
 - 콘솔에서 데이터를 입력받음
@@ -70,7 +70,7 @@ rl.on('close', () => {
 	close 이벤트는 rl.close()를 만난 후에 실행
     
     
-<span style="color: red">**즉, 자바스크립트는 입력을 받는 부분과 입력을 다 받은 데이터로 문제를 해결하는 방법으로 코드를 작성하면 조금 더 깔끔하게 데이터 입력을 처리할 수 있다.**</span>
+<span style="color: red; font-weight: bold">즉, 자바스크립트는 입력을 받는 부분과 입력을 다 받은 데이터로 문제를 해결하는 방법으로 코드를 작성하면 조금 더 깔끔하게 데이터 입력을 처리할 수 있다.</span>
 
 
 ### readline으로 입력을 받을 때 주의할 점
